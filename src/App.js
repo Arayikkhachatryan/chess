@@ -3,8 +3,8 @@ import Board from "./components/board/Board";
 
 function App() {
   return (
-    <div>
-     <Board/>
+    <div className="app">
+      <Board />
     </div>
   );
 }
